@@ -1,0 +1,6 @@
+Java Einstieg Woche3 Kapitel6 Aufgabe2
+======================
+Um weiter in die Basis des Bösewichts eindringen zu können, muss Ronja zwei weitere Schlösser überwinden.
+
+Die Klassen **Lock1** und **Lock2** erben von der abstrakten Klasse **AbstractLock**. Erweitere die Klasse **AbstractLock**, sodass diese alle Attribute und Methoden enthält, die an **Lock1** und **Lock2** vererbt werden müssen. 
+Schau dir dazu die Attribute und Methodensignaturen der Klassen **Lock1** und **Lock2** genau an.

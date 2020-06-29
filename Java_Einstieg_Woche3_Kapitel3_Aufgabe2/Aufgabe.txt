@@ -1,0 +1,11 @@
+Java Einstieg Woche3 Kapitel3 Aufgabe2
+======================
+Um Ronja gegen weitere unbefugte Zugriffe von Eike zu schützen, möchte Duke nun alle ihre Attribute durch Getter und Setter kapseln.
+
+Implementiere dazu in der Klasse **Robot** folgende Methoden:
+
+**setActivated()** soll ein Argument vom Typ boolean annehmen und dieses dem Attribut *activated* zuweisen.
+
+**isActivated()** soll den Wert von *activated* zurückgeben.
+
+Hinweis: Die Methode **printStatus()** darf nicht verändert werden.

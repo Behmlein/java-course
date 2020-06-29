@@ -1,0 +1,9 @@
+Java Einstieg Woche2 Kapitel4 Aufgabe2
+======================
+In dieser Aufgabe üben wir den Umgang mit Schleifen.
+
+Schreibe dazu die folgenden Methoden:
+
+**speakSeveralTimes()**: Diese Methode bekommt ein int als Parameter übergeben und gibt den im Attribut *sentence* gespeicherten String so oft in einer eigenen Zeile aus, wie in dem übergebenen Parameter gefordert.
+
+**speak()**: Ruft die Methode **speakSeveralTimes()** auf und übergibt ihr eine zufällige Zahl. Die zufällige Zahl erhältst du, indem du ein Objekt der Klasse *RandomNumber* erzeugst und auf diesem die Methode **giveNumber()** aufrufst.
