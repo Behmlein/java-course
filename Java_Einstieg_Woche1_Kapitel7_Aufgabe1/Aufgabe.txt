@@ -1,0 +1,7 @@
+Java Einstieg Woche1 Kapitel7 Aufgabe1
+======================
+In dieser Aufgabe üben wir das Schreiben von Methoden mit Rückgabewerten.
+
+Implementiere in der Klasse **ReadingRobot** die Methode **getTask()**, mit dem Rückgabetyp String.
+
+Die Methode soll den String mit dem Bezeichner *task* und dem Wert <span style="color:blue">"Ich lese codierte Nachrichten."</span> zurückgeben.
